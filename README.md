@@ -4,7 +4,7 @@ Scripts to reproduce the main analysis of "Global analyses of the human structur
 
 
 
-## Main analysis:
+## Main analysis
 
 **StructuralVariabiliyCSF.R**: Variability of the healthy human CSF structural proteome
 
