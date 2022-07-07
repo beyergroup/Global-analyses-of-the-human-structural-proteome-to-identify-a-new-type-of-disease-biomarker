@@ -1,6 +1,6 @@
 # Global analyses of the human structural proteome to identify a new type of disease biomarker
 
-Scripts to reproduce the main analysis of "Global analyses of the human structural proteome to identify a new type of disease biomakrer"
+Scripts to reproduce the main analysis of "Global analyses of the human structural proteome to identify a new type of disease biomarker"
 
 
 
