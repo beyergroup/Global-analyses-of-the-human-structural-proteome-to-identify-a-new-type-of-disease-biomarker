@@ -25,7 +25,7 @@ The code runs on Linux operating systems (Fedora 25) and has not been tested on 
 The code was developed on R-version 4.0.3 including following packages:
 ```
 devtools 2.4.3
-glmnet 4.1-2
+glmnet 4.1-1
 lawstat 3.4
 multimode 1.5
 openxlsx 4.2.5
