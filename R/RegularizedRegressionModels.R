@@ -1,8 +1,8 @@
 library(devtools)
 library(openxlsx)
 
-source_url("https://github.com/LuiseNagel/Global-analyses-of-the-human-structural-proteome-to-identify-a-new-type-of-disease-biomarker-/blob/main/R/Functions_BuildingAndHandelingLinearModels.R?raw=TRUE")
-source_url("https://github.com/LuiseNagel/Global-analyses-of-the-human-structural-proteome-to-identify-a-new-type-of-disease-biomarker-/blob/main/R/Functions_RegularizedRegression.R?raw=TRUE")
+source_url("https://github.com/beyergroup/Global-analyses-of-the-human-structural-proteome-to-identify-a-new-type-of-disease-biomarker/blob/main/R/Functions_BuildingAndHandelingLinearModels.R?raw=TRUE")
+source_url("https://github.com/beyergroup/Global-analyses-of-the-human-structural-proteome-to-identify-a-new-type-of-disease-biomarker/blob/main/R/Functions_RegularizedRegression.R?raw=TRUE")
 
 
 # Loading data
