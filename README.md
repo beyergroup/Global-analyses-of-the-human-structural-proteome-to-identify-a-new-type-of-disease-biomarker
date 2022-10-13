@@ -1,7 +1,8 @@
-# Global analyses of the human structural proteome to identify a new type of disease biomarker
+# Global, in situ analysis of the structural proteome in individuals with Parkinson’s disease to identify a new class of biomarker
 
-Scripts to reproduce the main analysis of "Global analyses of the human structural proteome to identify a new type of disease biomarker"
+Scripts to reproduce the main analysis of:
 
+Mackmull, MT., Nagel, L., Sesterhenn, F. et al. Global, in situ analysis of the structural proteome in individuals with Parkinson’s disease to identify a new class of biomarker. Nat Struct Mol Biol (2022). https://doi.org/10.1038/s41594-022-00837-0
 
 
 ## Main analysis
